@@ -1,4 +1,4 @@
-# SLAM : Map My World Project 
+# SLAM : Map My World
 
 Using ROS SLAM package and simulated sensor data, we create an agent that can both map the world around it and localize within it.
 
